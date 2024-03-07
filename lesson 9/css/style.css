@@ -1,0 +1,27 @@
+*{
+    background-color: cadetblue;
+}
+#greycol{
+    color:grey;
+}
+div > h3{
+    color:pink;
+}
+.yellow{
+    color:yellow;
+}
+div + div > p{
+    color: red;
+}
+div + h3{
+    color: #000;
+}
+.text-box{
+    color: #000;
+}
+h3 + p{ 
+    color: #000;
+}
+div + div + h3 + p{ 
+    color:green;
+}
